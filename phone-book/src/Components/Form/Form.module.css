@@ -1,0 +1,27 @@
+.form
+{
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    gap: 0.5rem;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.form input
+{
+    padding: 5px;
+    width: 70%;
+}
+
+.form button
+{
+    background-color: #4baf4d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+}
